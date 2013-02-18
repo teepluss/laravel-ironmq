@@ -2,12 +2,14 @@
 
 return array(
 
-	'token'      => '[YOUR TOKEN]',
+	'token'       => '[YOUR TOKEN]',
 
-	'project_id' => '[YOUT PROJECT]',
-	# Optional fields:
-	# protocol = http
-	# api_version = 1
-	# host = mq-aws-us-east-1.iron.io
-	# port = 80
+	'project_id'  => '[YOUT PROJECT]',
+
+	// Optional fields.
+	// 'protocol'    => 'http',
+	// 'api_version' => 1,
+	// 'host'        => 'mq-aws-us-east-1.iron.io',
+	// 'port'        => 80
+
 );
